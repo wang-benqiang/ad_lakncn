@@ -1,0 +1,26 @@
+@relation tae
+@attribute Native integer[1,2]
+@attribute Instructor integer[1,25]
+@attribute Course integer[1,26]
+@attribute Semester integer[1,2]
+@attribute Size integer[3,66]
+@attribute Class {1,2,3}
+@inputs Native, Instructor, Course, Semester, Size
+@outputs Class
+@data
+1, 23, 3, 2, 49, 3
+2, 10, 22, 2, 9, 3
+2, 6, 17, 2, 43, 2
+2, 1, 15, 1, 22, 2
+2, 6, 17, 2, 39, 3
+2, 8, 3, 2, 24, 2
+1, 22, 3, 2, 45, 3
+1, 23, 3, 2, 38, 3
+2, 23, 3, 1, 20, 2
+2, 23, 3, 2, 10, 2
+2, 2, 9, 2, 29, 1
+2, 15, 1, 2, 19, 1
+2, 14, 15, 2, 36, 3
+2, 16, 20, 2, 15, 1
+2, 10, 3, 2, 12, 1
+2, 2, 10, 2, 27, 1
