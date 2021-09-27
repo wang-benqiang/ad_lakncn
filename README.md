@@ -11,4 +11,5 @@ A New Locally Adaptive K-nearest Centroid Neighbor Classification Based on Avera
 
 ## Performance on UCI and KEEL dataset
 
-![image-20210927154509199](C:\Users\王本强\AppData\Roaming\Typora\typora-user-images\image-20210927154509199.png)
+![image-20210927154509199](https://github.com/wang-benqiang/ad_lakncn/tree/main/image/accuracy.png)
+
